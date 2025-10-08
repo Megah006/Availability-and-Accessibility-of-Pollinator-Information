@@ -51,7 +51,7 @@ U.S. Midwest (Minnesota, Wisconsin, Iowa, Illinois, Michigan, Indiana, Ohio)
 University of Minnesota College of Food, Agriculture and Natural Resource Sciences, project #1806-11033-FAPOL-1377051.
 
 7. Overview of the data (abstract):  
-This dataset and Python code are analysis of pollinator outreach materials evaluated using a resource discoverability rubric. The data represent rubric-based scores across multiple information types (Extension articles, academic papers, multimedia resources, and more), assessing Accessibility, Metadata quality, Search Engine Visibility, Sharability, and Indexing. The script aggregates rubric results by article type and produces a summary of the statistics. 
+This dataset and Python code are analysis of pollinator outreach materials evaluated using a resource discoverability rubric. The data represent rubric-based scores across multiple media types (Extension articles, academic papers, multimedia resources, and more), which assess Accessibility, Metadata quality, Search Engine Visibility, Sharability, and Indexing. The script aggregates rubric results by article type and produces a summary of the statistics. 
 
 
 --------------------------
